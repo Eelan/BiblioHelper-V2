@@ -1,0 +1,9 @@
+<resources>
+    <!-- Main Layout -->
+    <string name="app_name">BiblioHelper</string>
+    <string name="bt_isbn">Scanner</string>
+
+    <!-- Books (items and list) -->
+    <string name="desc_img_cover">Book Cover</string>
+    <string name="bt_list">Liste</string>
+</resources>
