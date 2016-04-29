@@ -15,13 +15,13 @@
 
         <meta-data
             android:name="DATABASE_NAME"
-            android:value="forecast" />
+            android:value="biblio" />
         <meta-data
             android:name="DATABASE_VERSION"
             android:value="1" />
         <meta-data
             android:name="DOMAIN_PACKAGE_NAME"
-            android:value="com.github.raylemon.weather.data.db" />
+            android:value="com.github.eelan.bibliohelper.data.db" />
         <meta-data
             android:name="QUERY_LOG"
             android:value="true" />

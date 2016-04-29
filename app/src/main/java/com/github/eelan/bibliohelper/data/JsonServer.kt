@@ -12,7 +12,6 @@ import java.net.URL
 class JsonServer : LibrarySource {
 
     val APP_ID = "AIzaSyAVsOY4c1O1xJygxf6XM3pRihrjH70YfKw"
-    val SEARCH_QUERY = "isbn:9782070515790"
     /*
     "isbn:9782070515790"
     "isbn:9782207303405"

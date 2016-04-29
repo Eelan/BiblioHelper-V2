@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity () {
         if (scanResult!=null){
             scan_content = scanResult.contents //récup de de l'isbn
             scan_format = scanResult.formatName
-            startActivity<BookDetailsActivity>(ISBN to scan_content)
+            startActivity<ListActivity>(ISBN to scan_content)
         }else{
             toast("no scan data receive")
         }
